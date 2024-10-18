@@ -1,0 +1,7 @@
+C:\Users\piringerm\gitwork\jelszo\bin\Debug\jelszo.exe.config
+C:\Users\piringerm\gitwork\jelszo\bin\Debug\jelszo.exe
+C:\Users\piringerm\gitwork\jelszo\bin\Debug\jelszo.pdb
+C:\Users\piringerm\gitwork\jelszo\obj\Debug\jelszo.csproj.AssemblyReference.cache
+C:\Users\piringerm\gitwork\jelszo\obj\Debug\jelszo.csproj.CoreCompileInputs.cache
+C:\Users\piringerm\gitwork\jelszo\obj\Debug\jelszo.exe
+C:\Users\piringerm\gitwork\jelszo\obj\Debug\jelszo.pdb
